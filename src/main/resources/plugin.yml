@@ -1,0 +1,7 @@
+name: SkImagine
+version: '1.0'
+main: io.github.fusezion.skImagine.SkImagine
+api-version: '1.21'
+authors: [ Fusezion ]
+description: This addon is a redesign on syntax from SkBee
+website: https://github.com/Fusezion/SkImagine
