@@ -56,6 +56,13 @@ When syntax like this is added, instead of breaking randomly the syntax will be 
 
 I'm a strong believer in breaking changes being good, but I'm also aware that people don't want to update their code when something is removed in favor of another, this coding style is designed to make updates more worthwhile for avid users and meet expectations early.
 
+### Skript Syntax within SkImagine
+Due to the dumb decisions of active skriptlang contributors within the Skript community, and their dumbass decisions to ignore bukkit api and use their crappy designs to handhold,
+I've decided some Skript features will likely be added within SkImagine with their bukkit implementations, these changes are made for me mostly and my spout of annoyance with this decision of theirs.
+
+The decision in Skript to act like a cradle for a child will never move it forward and only end up holding them back from adding meaningful designs with high flexibility.
+Until they grow out of this childish phase I will continue to use bukkit api format for all my systems. This will be prominent within their recipes and only time will tell.
+
 ## Supported Server/Skript Versions
 This addon is only ever really planning to support the latest of Skript and Paper, As these are generally the best options for anyone.
 
